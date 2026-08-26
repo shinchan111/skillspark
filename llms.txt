@@ -1,0 +1,20 @@
+# SkillSpark Hub
+
+> SkillSpark Hub is a practical digital-skills learning website for students and beginners.
+
+## Website
+https://shinchan111.github.io/skillspark/
+
+## Topics
+- Web development
+- Artificial intelligence
+- Cybersecurity
+- Productivity
+- Student projects
+- Learning roadmaps
+
+## Main sections
+- Skills: https://shinchan111.github.io/skillspark/#skills
+- Projects: https://shinchan111.github.io/skillspark/#projects
+- Roadmap: https://shinchan111.github.io/skillspark/#roadmap
+- Contact: https://shinchan111.github.io/skillspark/#contact

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shinchan111.github.io/skillspark/sitemap.xml
